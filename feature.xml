@@ -2,7 +2,7 @@
 <feature
       id="hu.ngms.opencl.feature"
       label="OpenCL Feature"
-      version="0.5.0.qualifier"
+      version="1.0.0"
       provider-name="hu.ngms"
       os="linux,macosx,win32"
       ws="cocoa,gtk,win32"
@@ -39,10 +39,6 @@
 
    <plugin
          id="hu.ngms.opencl.editor"
-         os="linux,macosx,win32"
-         ws="cocoa,gtk,win32"
-         nl="es_AR"
-         arch="x86,x86_64"
          download-size="0"
          install-size="0"
          version="0.0.0"

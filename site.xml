@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/hu.ngms.opencl.feature_1.0.0.jar" id="hu.ngms.opencl.feature" version="1.0.0" os="linux,macosx,win32" ws="cocoa,gtk,win32" nl="en_US" arch="x86,x86_64">
+      <category name="hu.ngms.opencl.feature.site"/>
+   </feature>
+   <category-def name="hu.ngms.opencl.feature.site" label="OpenCL IDE"/>
+</site>
